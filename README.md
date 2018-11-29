@@ -1,3 +1,3 @@
 # Alunos
-# instrutr:
+# instrutor:
     -fabricio
